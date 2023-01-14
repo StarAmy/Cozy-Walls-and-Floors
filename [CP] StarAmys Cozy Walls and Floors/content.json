@@ -1,0 +1,1278 @@
+{
+	"Format": "1.25.0",
+	"Changes": [
+		{
+			"Action": "EditData",
+			"Target": "Data/AdditionalWallpaperFlooring",
+			"Entries": {
+				"StarAmy.Brown_Maple": {
+					"ID": "StarAmy.Brown_Maple",
+					"Texture": "StarAmy.Brown_Maple/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Beige_Maple": {
+					"ID": "StarAmy.Beige_Maple",
+					"Texture": "StarAmy.Beige_Maple/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Olive_Maple": {
+					"ID": "StarAmy.Olive_Maple",
+					"Texture": "StarAmy.Olive_Maple/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Sap_Maple": {
+					"ID": "StarAmy.Sap_Maple",
+					"Texture": "StarAmy.Sap_Maple/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Slate_Maple": {
+					"ID": "StarAmy.Slate_Maple",
+					"Texture": "StarAmy.Slate_Maple/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Sky_Maple": {
+					"ID": "StarAmy.Sky_Maple",
+					"Texture": "StarAmy.Sky_Maple/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Orange_Maple": {
+					"ID": "StarAmy.Orange_Maple",
+					"Texture": "StarAmy.Orange_Maple/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Cream_Maple": {
+					"ID": "StarAmy.Cream_Maple",
+					"Texture": "StarAmy.Cream_Maple/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Brown_Striped": {
+					"ID": "StarAmy.Brown_Striped",
+					"Texture": "StarAmy.Brown_Striped/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Beige_Striped": {
+					"ID": "StarAmy.Beige_Striped",
+					"Texture": "StarAmy.Beige_Striped/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Olive_Striped": {
+					"ID": "StarAmy.Olive_Striped",
+					"Texture": "StarAmy.Olive_Striped/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Sap_Striped": {
+					"ID": "StarAmy.Sap_Striped",
+					"Texture": "StarAmy.Sap_Striped/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Slate_Striped": {
+					"ID": "StarAmy.Slate_Striped",
+					"Texture": "StarAmy.Slate_Striped/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Sky_Striped": {
+					"ID": "StarAmy.Sky_Striped",
+					"Texture": "StarAmy.Sky_Striped/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Orange_Striped": {
+					"ID": "StarAmy.Orange_Striped",
+					"Texture": "StarAmy.Orange_Striped/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Cream_Striped": {
+					"ID": "StarAmy.Cream_Striped",
+					"Texture": "StarAmy.Cream_Striped/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Brown_Framed": {
+					"ID": "StarAmy.Brown_Framed",
+					"Texture": "StarAmy.Brown_Framed/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Beige_Framed": {
+					"ID": "StarAmy.Beige_Framed",
+					"Texture": "StarAmy.Beige_Framed/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Olive_Framed": {
+					"ID": "StarAmy.Olive_Framed",
+					"Texture": "StarAmy.Olive_Framed/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Sap_Framed": {
+					"ID": "StarAmy.Sap_Framed",
+					"Texture": "StarAmy.Sap_Framed/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Slate_Framed": {
+					"ID": "StarAmy.Slate_Framed",
+					"Texture": "StarAmy.Slate_Framed/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Sky_Framed": {
+					"ID": "StarAmy.Sky_Framed",
+					"Texture": "StarAmy.Sky_Framed/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Orange_Framed": {
+					"ID": "StarAmy.Orange_Framed",
+					"Texture": "StarAmy.Orange_Framed/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Cream_Framed": {
+					"ID": "StarAmy.Cream_Framed",
+					"Texture": "StarAmy.Cream_Framed/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Brown_Fleur": {
+					"ID": "StarAmy.Brown_Fleur",
+					"Texture": "StarAmy.Brown_Fleur/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Beige_Fleur": {
+					"ID": "StarAmy.Beige_Fleur",
+					"Texture": "StarAmy.Beige_Fleur/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Olive_Fleur": {
+					"ID": "StarAmy.Olive_Fleur",
+					"Texture": "StarAmy.Olive_Fleur/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Sap_Fleur": {
+					"ID": "StarAmy.Sap_Fleur",
+					"Texture": "StarAmy.Sap_Fleur/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Slate_Fleur": {
+					"ID": "StarAmy.Slate_Fleur",
+					"Texture": "StarAmy.Slate_Fleur/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Sky_Fleur": {
+					"ID": "StarAmy.Sky_Fleur",
+					"Texture": "StarAmy.Sky_Fleur/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Orange_Fleur": {
+					"ID": "StarAmy.Orange_Fleur",
+					"Texture": "StarAmy.Orange_Fleur/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Cream_Fleur": {
+					"ID": "StarAmy.Cream_Fleur",
+					"Texture": "StarAmy.Cream_Fleur/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Thin_Dark_Vertical": {
+					"ID": "StarAmy.Thin_Dark_Vertical",
+					"Texture": "StarAmy.Thin_Dark_Vertical/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+				"StarAmy.Thin_Dark_Horizontal": {
+					"ID": "StarAmy.Thin_Dark_Horizontal",
+					"Texture": "StarAmy.Thin_Dark_Horizontal/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+				"StarAmy.Thick_Dark_Vertical": {
+					"ID": "StarAmy.Thick_Dark_Vertical",
+					"Texture": "StarAmy.Thick_Dark_Vertical/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+				"StarAmy.Thick_Dark_Horizontal": {
+					"ID": "StarAmy.Thick_Dark_Horizontal",
+					"Texture": "StarAmy.Thick_Dark_Horizontal/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+				"StarAmy.Thin_Medium_Vertical": {
+					"ID": "StarAmy.Thin_Medium_Vertical",
+					"Texture": "StarAmy.Thin_Medium_Vertical/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+				"StarAmy.Thin_Medium_Horizontal": {
+					"ID": "StarAmy.Thin_Medium_Horizontal",
+					"Texture": "StarAmy.Thin_Medium_Horizontal/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+				"StarAmy.Thick_Medium_Vertical": {
+					"ID": "StarAmy.Thick_Medium_Vertical",
+					"Texture": "StarAmy.Thick_Medium_Vertical/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+				"StarAmy.Thick_Medium_Horizontal": {
+					"ID": "StarAmy.Thick_Medium_Horizontal",
+					"Texture": "StarAmy.Thick_Medium_Horizontal/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+				"StarAmy.Thin_Muted_Vertical": {
+					"ID": "StarAmy.Thin_Muted_Vertical",
+					"Texture": "StarAmy.Thin_Muted_Vertical/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+				"StarAmy.Thin_Muted_Horizontal": {
+					"ID": "StarAmy.Thin_Muted_Horizontal",
+					"Texture": "StarAmy.Thin_Muted_Horizontal/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+				"StarAmy.Thick_Muted_Vertical": {
+					"ID": "StarAmy.Thick_Muted_Vertical",
+					"Texture": "StarAmy.Thick_Muted_Vertical/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+				"StarAmy.Thick_Muted_Horizontal": {
+					"ID": "StarAmy.Thick_Muted_Horizontal",
+					"Texture": "StarAmy.Thick_Muted_Horizontal/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+				"StarAmy.Thin_Light_Vertical": {
+					"ID": "StarAmy.Thin_Light_Vertical",
+					"Texture": "StarAmy.Thin_Light_Vertical/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+				"StarAmy.Thin_Light_Horizontal": {
+					"ID": "StarAmy.Thin_Light_Horizontal",
+					"Texture": "StarAmy.Thin_Light_Horizontal/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+				"StarAmy.Thick_Light_Vertical": {
+					"ID": "StarAmy.Thick_Light_Vertical",
+					"Texture": "StarAmy.Thick_Light_Vertical/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+				"StarAmy.Thick_Light_Horizontal": {
+					"ID": "StarAmy.Thick_Light_Horizontal",
+					"Texture": "StarAmy.Thick_Light_Horizontal/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+				"StarAmy.Brown_Diamond": {
+					"ID": "StarAmy.Brown_Diamond",
+					"Texture": "StarAmy.Brown_Diamond/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+				"StarAmy.Brown_Small_Square": {
+					"ID": "StarAmy.Brown_Small_Square",
+					"Texture": "StarAmy.Brown_Small_Square/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+				"StarAmy.Brown_Large_Square": {
+					"ID": "StarAmy.Brown_Large_Square",
+					"Texture": "StarAmy.Brown_Large_Square/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+				"StarAmy.Slate_Pattern": {
+					"ID": "StarAmy.Slate_Pattern",
+					"Texture": "StarAmy.Slate_Pattern/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+				"StarAmy.Green_Diamond": {
+					"ID": "StarAmy.Green_Diamond",
+					"Texture": "StarAmy.Green_Diamond/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+				"StarAmy.Green_Small_Square": {
+					"ID": "StarAmy.Green_Small_Square",
+					"Texture": "StarAmy.Green_Small_Square/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+				"StarAmy.Green_Large_Square": {
+					"ID": "StarAmy.Green_Large_Square",
+					"Texture": "StarAmy.Green_Large_Square/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+				"StarAmy.Earth_Pattern": {
+					"ID": "StarAmy.Earth_Pattern",
+					"Texture": "StarAmy.Earth_Pattern/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+				"StarAmy.Blue_Diamond": {
+					"ID": "StarAmy.Blue_Diamond",
+					"Texture": "StarAmy.Blue_Diamond/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+				"StarAmy.Blue_Small_Square": {
+					"ID": "StarAmy.Blue_Small_Square",
+					"Texture": "StarAmy.Blue_Small_Square/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+				"StarAmy.Blue_Large_Square": {
+					"ID": "StarAmy.Blue_Large_Square",
+					"Texture": "StarAmy.Blue_Large_Square/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+				"StarAmy.Sky_Pattern": {
+					"ID": "StarAmy.Sky_Pattern",
+					"Texture": "StarAmy.Sky_Pattern/WallpaperIcon",
+					"IsFlooring": true,
+					"Count": 1
+				},
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Brown_Maple/Wallpaper",
+			"FromFile": "assets/Brown_Maple.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Brown_Maple/WallpaperIcon",
+			"FromFile": "assets/Brown_Maple.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Beige_Maple/Wallpaper",
+			"FromFile": "assets/Beige_Maple.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Beige_Maple/WallpaperIcon",
+			"FromFile": "assets/Beige_Maple.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Olive_Maple/Wallpaper",
+			"FromFile": "assets/Olive_Maple.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Olive_Maple/WallpaperIcon",
+			"FromFile": "assets/Olive_Maple.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Sap_Maple/Wallpaper",
+			"FromFile": "assets/Sap_Maple.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Sap_Maple/WallpaperIcon",
+			"FromFile": "assets/Sap_Maple.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Slate_Maple/Wallpaper",
+			"FromFile": "assets/Slate_Maple.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Slate_Maple/WallpaperIcon",
+			"FromFile": "assets/Slate_Maple.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Sky_Maple/Wallpaper",
+			"FromFile": "assets/Sky_Maple.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Sky_Maple/WallpaperIcon",
+			"FromFile": "assets/Sky_Maple.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Orange_Maple/Wallpaper",
+			"FromFile": "assets/Orange_Maple.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Orange_Maple/WallpaperIcon",
+			"FromFile": "assets/Orange_Maple.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Cream_Maple/Wallpaper",
+			"FromFile": "assets/Cream_Maple.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Cream_Maple/WallpaperIcon",
+			"FromFile": "assets/Cream_Maple.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Brown_Striped/Wallpaper",
+			"FromFile": "assets/Brown_Striped.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Brown_Striped/WallpaperIcon",
+			"FromFile": "assets/Brown_Striped.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Beige_Striped/Wallpaper",
+			"FromFile": "assets/Beige_Striped.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Beige_Striped/WallpaperIcon",
+			"FromFile": "assets/Beige_Striped.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Olive_Striped/Wallpaper",
+			"FromFile": "assets/Olive_Striped.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Olive_Striped/WallpaperIcon",
+			"FromFile": "assets/Olive_Striped.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Sap_Striped/Wallpaper",
+			"FromFile": "assets/Sap_Striped.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Sap_Striped/WallpaperIcon",
+			"FromFile": "assets/Sap_Striped.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Slate_Striped/Wallpaper",
+			"FromFile": "assets/Slate_Striped.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Slate_Striped/WallpaperIcon",
+			"FromFile": "assets/Slate_Striped.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Sky_Striped/Wallpaper",
+			"FromFile": "assets/Sky_Striped.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Sky_Striped/WallpaperIcon",
+			"FromFile": "assets/Sky_Striped.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Orange_Striped/Wallpaper",
+			"FromFile": "assets/Orange_Striped.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Orange_Striped/WallpaperIcon",
+			"FromFile": "assets/Orange_Striped.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Cream_Striped/Wallpaper",
+			"FromFile": "assets/Cream_Striped.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Cream_Striped/WallpaperIcon",
+			"FromFile": "assets/Cream_Striped.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Brown_Framed/Wallpaper",
+			"FromFile": "assets/Brown_Framed.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Brown_Framed/WallpaperIcon",
+			"FromFile": "assets/Brown_Framed.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Beige_Framed/Wallpaper",
+			"FromFile": "assets/Beige_Framed.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Beige_Framed/WallpaperIcon",
+			"FromFile": "assets/Beige_Framed.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Olive_Framed/Wallpaper",
+			"FromFile": "assets/Olive_Framed.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Olive_Framed/WallpaperIcon",
+			"FromFile": "assets/Olive_Framed.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Sap_Framed/Wallpaper",
+			"FromFile": "assets/Sap_Framed.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Sap_Framed/WallpaperIcon",
+			"FromFile": "assets/Sap_Framed.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Slate_Framed/Wallpaper",
+			"FromFile": "assets/Slate_Framed.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Slate_Framed/WallpaperIcon",
+			"FromFile": "assets/Slate_Framed.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Sky_Framed/Wallpaper",
+			"FromFile": "assets/Sky_Framed.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Sky_Framed/WallpaperIcon",
+			"FromFile": "assets/Sky_Framed.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Orange_Framed/Wallpaper",
+			"FromFile": "assets/Orange_Framed.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Orange_Framed/WallpaperIcon",
+			"FromFile": "assets/Orange_Framed.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Cream_Framed/Wallpaper",
+			"FromFile": "assets/Cream_Framed.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Cream_Framed/WallpaperIcon",
+			"FromFile": "assets/Cream_Framed.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Brown_Fleur/Wallpaper",
+			"FromFile": "assets/Brown_Fleur.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Brown_Fleur/WallpaperIcon",
+			"FromFile": "assets/Brown_Fleur.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Beige_Fleur/Wallpaper",
+			"FromFile": "assets/Beige_Fleur.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Beige_Fleur/WallpaperIcon",
+			"FromFile": "assets/Beige_Fleur.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Olive_Fleur/Wallpaper",
+			"FromFile": "assets/Olive_Fleur.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Olive_Fleur/WallpaperIcon",
+			"FromFile": "assets/Olive_Fleur.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Sap_Fleur/Wallpaper",
+			"FromFile": "assets/Sap_Fleur.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Sap_Fleur/WallpaperIcon",
+			"FromFile": "assets/Sap_Fleur.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Slate_Fleur/Wallpaper",
+			"FromFile": "assets/Slate_Fleur.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Slate_Fleur/WallpaperIcon",
+			"FromFile": "assets/Slate_Fleur.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Sky_Fleur/Wallpaper",
+			"FromFile": "assets/Sky_Fleur.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Sky_Fleur/WallpaperIcon",
+			"FromFile": "assets/Sky_Fleur.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Orange_Fleur/Wallpaper",
+			"FromFile": "assets/Orange_Fleur.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Orange_Fleur/WallpaperIcon",
+			"FromFile": "assets/Orange_Fleur.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Cream_Fleur/Wallpaper",
+			"FromFile": "assets/Cream_Fleur.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Cream_Fleur/WallpaperIcon",
+			"FromFile": "assets/Cream_Fleur.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Thin_Dark_Vertical/Wallpaper",
+			"FromFile": "assets/Thin_Dark_Vertical.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Thin_Dark_Vertical/WallpaperIcon",
+			"FromFile": "assets/Thin_Dark_Vertical.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Thin_Dark_Horizontal/Wallpaper",
+			"FromFile": "assets/Thin_Dark_Horizontal.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Thin_Dark_Horizontal/WallpaperIcon",
+			"FromFile": "assets/Thin_Dark_Horizontal.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Thick_Dark_Vertical/Wallpaper",
+			"FromFile": "assets/Thick_Dark_Vertical.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Thick_Dark_Vertical/WallpaperIcon",
+			"FromFile": "assets/Thick_Dark_Vertical.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Thick_Dark_Horizontal/Wallpaper",
+			"FromFile": "assets/Thick_Dark_Horizontal.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Thick_Dark_Horizontal/WallpaperIcon",
+			"FromFile": "assets/Thick_Dark_Horizontal.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Thin_Medium_Vertical/Wallpaper",
+			"FromFile": "assets/Thin_Medium_Vertical.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Thin_Medium_Vertical/WallpaperIcon",
+			"FromFile": "assets/Thin_Medium_Vertical.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Thin_Medium_Horizontal/Wallpaper",
+			"FromFile": "assets/Thin_Medium_Horizontal.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Thin_Medium_Horizontal/WallpaperIcon",
+			"FromFile": "assets/Thin_Medium_Horizontal.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Thick_Medium_Vertical/Wallpaper",
+			"FromFile": "assets/Thick_Medium_Vertical.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Thick_Medium_Vertical/WallpaperIcon",
+			"FromFile": "assets/Thick_Medium_Vertical.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Thick_Medium_Horizontal/Wallpaper",
+			"FromFile": "assets/Thick_Medium_Horizontal.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Thick_Medium_Horizontal/WallpaperIcon",
+			"FromFile": "assets/Thick_Medium_Horizontal.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Thin_Muted_Vertical/Wallpaper",
+			"FromFile": "assets/Thin_Muted_Vertical.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Thin_Muted_Vertical/WallpaperIcon",
+			"FromFile": "assets/Thin_Muted_Vertical.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Thin_Muted_Horizontal/Wallpaper",
+			"FromFile": "assets/Thin_Muted_Horizontal.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Thin_Muted_Horizontal/WallpaperIcon",
+			"FromFile": "assets/Thin_Muted_Horizontal.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Thick_Muted_Vertical/Wallpaper",
+			"FromFile": "assets/Thick_Muted_Vertical.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Thick_Muted_Vertical/WallpaperIcon",
+			"FromFile": "assets/Thick_Muted_Vertical.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Thick_Muted_Horizontal/Wallpaper",
+			"FromFile": "assets/Thick_Muted_Horizontal.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Thick_Muted_Horizontal/WallpaperIcon",
+			"FromFile": "assets/Thick_Muted_Horizontal.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Thin_Light_Vertical/Wallpaper",
+			"FromFile": "assets/Thin_Light_Vertical.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Thin_Light_Vertical/WallpaperIcon",
+			"FromFile": "assets/Thin_Light_Vertical.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Thin_Light_Horizontal/Wallpaper",
+			"FromFile": "assets/Thin_Light_Horizontal.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Thin_Light_Horizontal/WallpaperIcon",
+			"FromFile": "assets/Thin_Light_Horizontal.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Thick_Light_Vertical/Wallpaper",
+			"FromFile": "assets/Thick_Light_Vertical.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Thick_Light_Vertical/WallpaperIcon",
+			"FromFile": "assets/Thick_Light_Vertical.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Thick_Light_Horizontal/Wallpaper",
+			"FromFile": "assets/Thick_Light_Horizontal.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Thick_Light_Horizontal/WallpaperIcon",
+			"FromFile": "assets/Thick_Light_Horizontal.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Brown_Diamond/Wallpaper",
+			"FromFile": "assets/Brown_Diamond.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Brown_Diamond/WallpaperIcon",
+			"FromFile": "assets/Brown_Diamond.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Brown_Small_Square/Wallpaper",
+			"FromFile": "assets/Brown_Small_Square.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Brown_Small_Square/WallpaperIcon",
+			"FromFile": "assets/Brown_Small_Square.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Brown_Large_Square/Wallpaper",
+			"FromFile": "assets/Brown_Large_Square.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Brown_Large_Square/WallpaperIcon",
+			"FromFile": "assets/Brown_Large_Square.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Slate_Pattern/Wallpaper",
+			"FromFile": "assets/Slate_Pattern.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Slate_Pattern/WallpaperIcon",
+			"FromFile": "assets/Slate_Pattern.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Green_Diamond/Wallpaper",
+			"FromFile": "assets/Green_Diamond.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Green_Diamond/WallpaperIcon",
+			"FromFile": "assets/Green_Diamond.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Green_Small_Square/Wallpaper",
+			"FromFile": "assets/Green_Small_Square.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Green_Small_Square/WallpaperIcon",
+			"FromFile": "assets/Green_Small_Square.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Green_Large_Square/Wallpaper",
+			"FromFile": "assets/Green_Large_Square.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Green_Large_Square/WallpaperIcon",
+			"FromFile": "assets/Green_Large_Square.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Earth_Pattern/Wallpaper",
+			"FromFile": "assets/Earth_Pattern.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Earth_Pattern/WallpaperIcon",
+			"FromFile": "assets/Earth_Pattern.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Blue_Diamond/Wallpaper",
+			"FromFile": "assets/Blue_Diamond.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Blue_Diamond/WallpaperIcon",
+			"FromFile": "assets/Blue_Diamond.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Blue_Small_Square/Wallpaper",
+			"FromFile": "assets/Blue_Small_Square.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Blue_Small_Square/WallpaperIcon",
+			"FromFile": "assets/Blue_Small_Square.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Blue_Large_Square/Wallpaper",
+			"FromFile": "assets/Blue_Large_Square.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Blue_Large_Square/WallpaperIcon",
+			"FromFile": "assets/Blue_Large_Square.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Sky_Pattern/Wallpaper",
+			"FromFile": "assets/Sky_Pattern.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Sky_Pattern/WallpaperIcon",
+			"FromFile": "assets/Sky_Pattern.png"
+		},
+		{
+			"Action": "EditData",
+			"Target": "aedenthorn.CustomWallpaperFramework/dictionary",
+			"Entries": {
+				"StarAmy.Brown_Maple": {
+					"id": "StarAmy.Brown_Maple",
+					"texturePath": "StarAmy.Brown_Maple/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Beige_Maple": {
+					"id": "StarAmy.Beige_Maple",
+					"texturePath": "StarAmy.Beige_Maple/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Olive_Maple": {
+					"id": "StarAmy.Olive_Maple",
+					"texturePath": "StarAmy.Olive_Maple/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Sap_Maple": {
+					"id": "StarAmy.Sap_Maple",
+					"texturePath": "StarAmy.Sap_Maple/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Slate_Maple": {
+					"id": "StarAmy.Slate_Maple",
+					"texturePath": "StarAmy.Slate_Maple/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Sky_Maple": {
+					"id": "StarAmy.Sky_Maple",
+					"texturePath": "StarAmy.Sky_Maple/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Orange_Maple": {
+					"id": "StarAmy.Orange_Maple",
+					"texturePath": "StarAmy.Orange_Maple/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Cream_Maple": {
+					"id": "StarAmy.Cream_Maple",
+					"texturePath": "StarAmy.Cream_Maple/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Brown_Striped": {
+					"id": "StarAmy.Brown_Striped",
+					"texturePath": "StarAmy.Brown_Striped/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Beige_Striped": {
+					"id": "StarAmy.Beige_Striped",
+					"texturePath": "StarAmy.Beige_Striped/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Olive_Striped": {
+					"id": "StarAmy.Olive_Striped",
+					"texturePath": "StarAmy.Olive_Striped/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Sap_Striped": {
+					"id": "StarAmy.Sap_Striped",
+					"texturePath": "StarAmy.Sap_Striped/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Slate_Striped": {
+					"id": "StarAmy.Slate_Striped",
+					"texturePath": "StarAmy.Slate_Striped/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Sky_Striped": {
+					"id": "StarAmy.Sky_Striped",
+					"texturePath": "StarAmy.Sky_Striped/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Orange_Striped": {
+					"id": "StarAmy.Orange_Striped",
+					"texturePath": "StarAmy.Orange_Striped/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Cream_Striped": {
+					"id": "StarAmy.Cream_Striped",
+					"texturePath": "StarAmy.Cream_Striped/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Brown_Framed": {
+					"id": "StarAmy.Brown_Framed",
+					"texturePath": "StarAmy.Brown_Framed/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Beige_Framed": {
+					"id": "StarAmy.Beige_Framed",
+					"texturePath": "StarAmy.Beige_Framed/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Olive_Framed": {
+					"id": "StarAmy.Olive_Framed",
+					"texturePath": "StarAmy.Olive_Framed/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Sap_Framed": {
+					"id": "StarAmy.Sap_Framed",
+					"texturePath": "StarAmy.Sap_Framed/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Slate_Framed": {
+					"id": "StarAmy.Slate_Framed",
+					"texturePath": "StarAmy.Slate_Framed/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Sky_Framed": {
+					"id": "StarAmy.Sky_Framed",
+					"texturePath": "StarAmy.Sky_Framed/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Orange_Framed": {
+					"id": "StarAmy.Orange_Framed",
+					"texturePath": "StarAmy.Orange_Framed/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Cream_Framed": {
+					"id": "StarAmy.Cream_Framed",
+					"texturePath": "StarAmy.Cream_Framed/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Brown_Fleur": {
+					"id": "StarAmy.Brown_Fleur",
+					"texturePath": "StarAmy.Brown_Fleur/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Beige_Fleur": {
+					"id": "StarAmy.Beige_Fleur",
+					"texturePath": "StarAmy.Beige_Fleur/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Olive_Fleur": {
+					"id": "StarAmy.Olive_Fleur",
+					"texturePath": "StarAmy.Olive_Fleur/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Sap_Fleur": {
+					"id": "StarAmy.Sap_Fleur",
+					"texturePath": "StarAmy.Sap_Fleur/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Slate_Fleur": {
+					"id": "StarAmy.Slate_Fleur",
+					"texturePath": "StarAmy.Slate_Fleur/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Sky_Fleur": {
+					"id": "StarAmy.Sky_Fleur",
+					"texturePath": "StarAmy.Sky_Fleur/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Orange_Fleur": {
+					"id": "StarAmy.Orange_Fleur",
+					"texturePath": "StarAmy.Orange_Fleur/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Cream_Fleur": {
+					"id": "StarAmy.Cream_Fleur",
+					"texturePath": "StarAmy.Cream_Fleur/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Thin_Dark_Vertical": {
+					"id": "StarAmy.Thin_Dark_Vertical",
+					"texturePath": "StarAmy.Thin_Dark_Vertical/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Thin_Dark_Horizontal": {
+					"id": "StarAmy.Thin_Dark_Horizontal",
+					"texturePath": "StarAmy.Thin_Dark_Horizontal/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Thick_Dark_Vertical": {
+					"id": "StarAmy.Thick_Dark_Vertical",
+					"texturePath": "StarAmy.Thick_Dark_Vertical/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Thick_Dark_Horizontal": {
+					"id": "StarAmy.Thick_Dark_Horizontal",
+					"texturePath": "StarAmy.Thick_Dark_Horizontal/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Thin_Medium_Vertical": {
+					"id": "StarAmy.Thin_Medium_Vertical",
+					"texturePath": "StarAmy.Thin_Medium_Vertical/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Thin_Medium_Horizontal": {
+					"id": "StarAmy.Thin_Medium_Horizontal",
+					"texturePath": "StarAmy.Thin_Medium_Horizontal/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Thick_Medium_Vertical": {
+					"id": "StarAmy.Thick_Medium_Vertical",
+					"texturePath": "StarAmy.Thick_Medium_Vertical/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Thick_Medium_Horizontal": {
+					"id": "StarAmy.Thick_Medium_Horizontal",
+					"texturePath": "StarAmy.Thick_Medium_Horizontal/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Thin_Muted_Vertical": {
+					"id": "StarAmy.Thin_Muted_Vertical",
+					"texturePath": "StarAmy.Thin_Muted_Vertical/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Thin_Muted_Horizontal": {
+					"id": "StarAmy.Thin_Muted_Horizontal",
+					"texturePath": "StarAmy.Thin_Muted_Horizontal/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Thick_Muted_Vertical": {
+					"id": "StarAmy.Thick_Muted_Vertical",
+					"texturePath": "StarAmy.Thick_Muted_Vertical/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Thick_Muted_Horizontal": {
+					"id": "StarAmy.Thick_Muted_Horizontal",
+					"texturePath": "StarAmy.Thick_Muted_Horizontal/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Thin_Light_Vertical": {
+					"id": "StarAmy.Thin_Light_Vertical",
+					"texturePath": "StarAmy.Thin_Light_Vertical/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Thin_Light_Horizontal": {
+					"id": "StarAmy.Thin_Light_Horizontal",
+					"texturePath": "StarAmy.Thin_Light_Horizontal/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Thick_Light_Vertical": {
+					"id": "StarAmy.Thick_Light_Vertical",
+					"texturePath": "StarAmy.Thick_Light_Vertical/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Thick_Light_Horizontal": {
+					"id": "StarAmy.Thick_Light_Horizontal",
+					"texturePath": "StarAmy.Thick_Light_Horizontal/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Brown_Diamond": {
+					"id": "StarAmy.Brown_Diamond",
+					"texturePath": "StarAmy.Brown_Diamond/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Brown_Small_Square": {
+					"id": "StarAmy.Brown_Small_Square",
+					"texturePath": "StarAmy.Brown_Small_Square/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Brown_Large_Square": {
+					"id": "StarAmy.Brown_Large_Square",
+					"texturePath": "StarAmy.Brown_Large_Square/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Slate_Pattern": {
+					"id": "StarAmy.Slate_Pattern",
+					"texturePath": "StarAmy.Slate_Pattern/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Green_Diamond": {
+					"id": "StarAmy.Green_Diamond",
+					"texturePath": "StarAmy.Green_Diamond/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Green_Small_Square": {
+					"id": "StarAmy.Green_Small_Square",
+					"texturePath": "StarAmy.Green_Small_Square/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Green_Large_Square": {
+					"id": "StarAmy.Green_Large_Square",
+					"texturePath": "StarAmy.Green_Large_Square/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Earth_Pattern": {
+					"id": "StarAmy.Earth_Pattern",
+					"texturePath": "StarAmy.Earth_Pattern/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Blue_Diamond": {
+					"id": "StarAmy.Blue_Diamond",
+					"texturePath": "StarAmy.Blue_Diamond/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Blue_Small_Square": {
+					"id": "StarAmy.Thin_Light_Horizontal",
+					"texturePath": "StarAmy.Blue_Small_Square/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Blue_Large_Square": {
+					"id": "StarAmy.Blue_Large_Square",
+					"texturePath": "StarAmy.Blue_Large_Square/Wallpaper",
+					"width": 1,
+				},
+				"StarAmy.Sky_Pattern": {
+					"id": "StarAmy.Sky_Pattern",
+					"texturePath": "StarAmy.Sky_Pattern/Wallpaper",
+					"width": 1,
+				},
+			}
+		},
+
+	]
+}

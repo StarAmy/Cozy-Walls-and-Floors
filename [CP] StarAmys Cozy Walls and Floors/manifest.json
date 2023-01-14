@@ -1,0 +1,17 @@
+{
+    "Name": "[CP] StarAmy's Cozy Walls and Floors",
+    "Author": "StarAmy",
+    "Version": "1.0.0",
+    "Description": "Adds a few new wallpapers and floors through custom wallpaper framework.",
+    "UniqueID": "StarAmy.CozyWalls",
+    "MinimumApiVersion": "3.13.0",
+    "ContentPackFor": {
+       "UniqueID": "Pathoschild.ContentPatcher"
+    },
+	"Dependencies": [
+		{
+			"UniqueID": "aedenthorn.CustomWallpaperFramework",
+			"IsRequired": true
+		}
+	]
+ }
